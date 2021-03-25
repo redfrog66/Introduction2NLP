@@ -1,4 +1,0 @@
-{
-    "jupyter.jupyterServerType": "remote",
-    "ai.azureml.defaultWorkspaceId": "/subscriptions/ab036af6-3b74-4359-a419-c0105b850f2d/resourceGroups/Intro2NLP_2021_Spring/providers/Microsoft.MachineLearningServices/workspaces/MachineLearningNLP"
-}
