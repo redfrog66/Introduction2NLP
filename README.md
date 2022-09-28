@@ -5,7 +5,7 @@
 A feladatokat notebook formájában kell beadni, amely nootbook minden blokkjának egymás után szekvenciálisa hiba nélkül kell futnia. A notebook-ok egyes részegységét pontosan definiálnia kell melyik rész mit csinál pontosan és mit akar megmutatni.
 A feladat megoldásának egy teljes működő pipline-t kell létrehoznia. Az egyes feladatoknál mindig kell lennie egy adatelőkészítési, modellezési és kiértékelési résznek. A feladatokat 1 vagy maximum 3-fő csapatokban lehet elvégezni. Azonban az elért eredményhez képest 2 személyes csapat esetén fél jegy még 3 személyes csapat esetén egy teljes jegy kerül levonásra.
 
-## Feladatok Értékelési tábla
+## Feladatok értékelési tábla
 
 Feladat                     | Értékelés     | Érdemjegy  |
 --------------------------- | ------------- | ---------- |
