@@ -2,8 +2,15 @@
 
 ## Bedás módja
 
-A feladatokat notebook formájában kell beadni, amely nootbook minden blokkjának egymás után szekvenciálisa hiba nélkül kell futnia. A notebook-ok egyes részegységét pontosan definiálnia kell melyik rész mit csinál pontosan és mit akar megmutatni.
-A feladat megoldásának egy teljes működő pipline-t kell létrehoznia. Az egyes feladatoknál mindig kell lennie egy adatelőkészítési, modellezési és kiértékelési résznek. A feladatokat 1 vagy maximum 3-fő csapatokban lehet elvégezni. Azonban az elért eredményhez képest 2 személyes csapat esetén fél jegy még 3 személyes csapat esetén egy teljes jegy kerül levonásra.
+A feladatokat notebook formájában kell beadni, amely nootbook minden blokkjának egymás után szekvenciálisa hiba nélkül kell futnia. A notebook-ok egyes részegységét pontosan definiálnia kell melyik rész mit csinál pontosan és mit akar megmutatni.A feladat megoldásának egy teljes működő pipline-t kell létrehoznia. Az egyes feladatoknál mindig kell lennie egy adatelőkészítési, modellezési és kiértékelési résznek. A feladatokat 1 vagy maximum 3-fő csapatokban lehet elvégezni. Azonban az elért eredményhez képest 2 személyes csapat esetén fél jegy még 3 személyes csapat esetén egy teljes jegy kerül levonásra.
+
+## Bekűldés módja
+
+Az elkészült feladatokat az óraadó email címére kell megküldeni a megadott sablon alapján. Az emailben fel kell tüntetni ki vagy kik készítették a feladatokat Név, Neptunkód megadásával. A sablont nem kell csatolni az emailhez, hanem azt fel kell tölteni valamilyen dokumentum megosztó helyre és csak az letöltési linket kell az email-ben megadni.
+
+## Bekűldés határideje
+
+2022.12.04. (vasárnap) 23:59:59 (éjfél)
 
 ## Feladatok értékelési tábla
 
@@ -11,8 +18,8 @@ Feladat                     | Értékelés     | Érdemjegy  |
 --------------------------- | ------------- | ---------- |
 Szöveg beágyazás            | 1. modellel   |   2        |
 Szöveg beágyazás            | 3. modellel   |   3        |
-Szentiment analízis         | 1. modellel   |   3        |
-Szentiment analízis         | 3. modellel   |   4        |
+Szentiment analízis         | 1. modellel   |   2        |
+Szentiment analízis         | 3. modellel   |   3        |
 Szöveg osztályozás          | 1. modellel   |   3        |
 Szöveg osztályozás          | 3. modellel   |   4        |
 Szöveg multi-osztályozás    | 1. modellel   |   3        |
