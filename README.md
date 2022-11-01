@@ -62,10 +62,6 @@ szó vektor              | 5     |
 
 A tárgy keretein belül a hallgatók megismerkednek a természetes nyelvű szövegfeldolgozás (NLP) alapjaival. Ezen felül gyakorlati tapasztalatra is szert tesznek különböző feladatok megoldása során. Főbb témakörök: logisztikus regresszió, naiv Bayes modell, PCA, n-gram modellek, Word2Vec, klasszikus és rekurrens neurális hálók. Továbbá a tárgy elvégzése során a hallgatók betekintést nyerhetnek az éppen aktuális, korszerű neurális architektúrákba. A félév során a hallgatóknak arra is lehetőségük adódik majd, hogy ezen architektúrákat felhő alapú szolgáltatások felhasználásával (Azure, Google Collab stb.) valós adatokon is kipróbálhassák, betaníthassák.
 
-## Fogalomtár
-
-FOGALOMTAR.md
-
 ## Kompetenciák
 
 A tárgy sikeres teljesítésével a hallgatók képesek lesznek különböző NLP architektúrák implementálására valós környezetekben. Emellett szert tehetnek a deeplarning.ai Natural Language Processing Specialization első két kurzusának sikeres teljesítéséhez szükséges ismeretekre, valamint közelebb kerülhetnek a Microsoft „Exam AI-900: Microsoft Azure AI Fundamentals” certificate megszerzéséhez.
@@ -76,3 +72,51 @@ A tárgy sikeres teljesítésével a hallgatók képesek lesznek különböző N
 2. [Eisenstein, Jacob. "Introduction to natural language processing." MIT press, 2019.](https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing/)
 3. [Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420.](https://arxiv.org/pdf/1510.00726.pdf)
 4. [Francois Chollet. "Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
+
+## Fogalomtár
+
+### Szöveg tisztítás
+1. Stopwords
+2. Stemming
+3. Lemmatization
+
+### Tokenizáció
+1. n-gramm
+2. BPE
+3. Wordlevel
+4. Wordpiece
+5. Sentencepiece
+
+### Vektorizáció
+1. bag of word
+2. tf
+3. tfidf
+4. szó vektorok
+5. Skip-Gram 
+6. CBOW
+
+### Tanulási módszertan
+1. Felügyelt
+2. Fél-felügyelt
+3. Nem felügyelt
+
+### Modellek
+1. Naivebayes
+2. Logistic regression
+3. LDA
+4. PCA
+5. TSNE
+7. Neurális hálók
+6. RNN
+7. LSTM
+8. GRU
+9. CNN
+10. Transformer
+11. K-Mean
+
+### Feladatok
+1. Embedding
+2. Szentiment analízis
+3. Szöveg osztályozás
+4. Szöveg generálás
+5. Téma modellezés
