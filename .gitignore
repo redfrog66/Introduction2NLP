@@ -1,3 +1,6 @@
 bkp/
 TMP/
 .vscode/
+**/*_test.json
+**/*_train.json
+**/*_val.json

@@ -26,6 +26,9 @@ Szöveg multi-osztályozás    | 1. modellel   |   3        |
 Szöveg multi-osztályozás    | 3. modellel   |   4        |
 Szöveg generálás            | 1. modellel   |   3        |
 Szöveg generálás            | 3. modellel   |   4        |
+Téma modellezés             | 1. modellel   |   2        |
+Téma modellezés             | 3. modellel   |   4        |
+Vegyes                      | 3. modellel   |   4        |
 
 ## Modellek értékesséig sorrendje
 Modell                  | Pont  |
@@ -69,6 +72,7 @@ A tárgy sikeres teljesítésével a hallgatók képesek lesznek különböző N
 
 ## Ajánlott irodalom
 
-1. Jurafsky, Daniel, and James H. Martin. "Speech and language processing (draft)." Chapter A: Hidden Markov Models (Draft of September 11, 2018). Retrieved March 19 (2018): 2019.
-2. Eisenstein, Jacob. "Introduction to natural language processing." MIT press, 2019.
-3. Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420. 
+1. [Jurafsky, Daniel, and James H. Martin. "Speech and language processing (draft)." Chapter A: Hidden Markov Models (Draft of September 11, 2018). Retrieved March 19 (2018): 2019.](https://ms.b-ok.xyz/book/3560643/4a6ab2)
+2. [Eisenstein, Jacob. "Introduction to natural language processing." MIT press, 2019.](https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing/)
+3. [Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420.](https://arxiv.org/pdf/1510.00726.pdf)
+4. [Francois Chollet. "Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
